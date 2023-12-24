@@ -45,3 +45,4 @@ aiohttp==1.5.4
 aiohttp==0.8.5
 eth-abi==2.2.4
 aiohttp==1.5.4
+aiohttp==0.5.4
