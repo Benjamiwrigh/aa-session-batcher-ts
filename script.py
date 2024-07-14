@@ -22,3 +22,4 @@
 # optimize 5354
 # optimize 3340
 # fix 8398
+# fix 3173
