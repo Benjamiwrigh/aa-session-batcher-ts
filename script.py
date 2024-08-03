@@ -8,3 +8,4 @@
 # optimize 5098
 # fix 6021
 # fix 1714
+# optimize 6527
